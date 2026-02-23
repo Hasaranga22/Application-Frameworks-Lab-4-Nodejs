@@ -1,0 +1,1 @@
+Sample text file is here made for Application framework lab 4
